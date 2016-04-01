@@ -28,7 +28,7 @@ PO-Revision-Date: 2016-03-04 18:10-0400
 
 ',
 
-'Version GIT' => '1.00.0013',
+'Version GIT' => '1.00.0014',
 '— Select an Action —' => '--Seleccione uma acção --',
 '"1" is recommended if AJAX is not working' => 'o valor "1" é recomendado se o AJAX não funcionar',
 '%1$d - %2$d of %3$d' => '%1$d - %2$d de %3$d',
@@ -1820,7 +1820,7 @@ PO-Revision-Date: 2016-03-04 18:10-0400
 'Temporary Password' => 'Palavra-chave temporária',
 'Term too short!' => 'Term too short!',
 'Test email sent successfully to <%s>' => 'Test email sent successfully to <%s>',
-'Test Outgoing Email' => 'Testar o envio de email',
+'Test Outgoing Email' => 'Teste de envio de email',
 'Text' => 'Texto',
 'Text Input' => 'Text Input',
 'Text shown in before any input from the user' => 'Text shown in before any input from the user',
@@ -2161,7 +2161,7 @@ PO-Revision-Date: 2016-03-04 18:10-0400
 'Use Browser Preference' => 'Utilize a prefeência do browser',
 'Use Default System Email (above)' => 'Use Default System Email (above)',
 'Use Language Preference' => 'Utilize o idioma preferido',
-'Use the following form to test whether your <strong>Outgoing Email</strong> settings are properly established.' => 'Use the following form to test whether your <strong>Outgoing Email</strong> settings are properly established.',
+'Use the following form to test whether your <strong>Outgoing Email</strong> settings are properly established.' => 'Utilize o formulário seguinte para testar se as definições de <b>Envio de Email</b> estão definidas correctamente',
 'Used for email fetching' => 'Utilizado para a recolha de emails',
 'Used for HTML email processing' => 'Used for HTML email processing',
 'Used for image manipulation and PDF printing' => 'Used for image manipulation and PDF printing',
@@ -2291,6 +2291,7 @@ PO-Revision-Date: 2016-03-04 18:10-0400
 'Your primary administrator account - you can add more users later.' => 'Your primary administrator account - you can add more users later.',
 'Your query did not match any records' => 'A sua consulta não devolveu quais registos',
 'Your Staff Control Panel' => 'Painel dos Colaboradores',
+'email message to send.' => 'mensagem a enviar por email',
 
 
   0 => 
