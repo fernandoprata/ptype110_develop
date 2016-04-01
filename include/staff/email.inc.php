@@ -320,7 +320,7 @@ $info=Format::htmlchars(($errors && $_POST)?$_POST:$info);
         <tr>
             <th colspan="2">
                 <em><strong><?php echo __('Internal Notes');?></strong>: <?php
-                echo __("Be liberal, they're internal");?> &nbsp;<span class="error">&nbsp;<?php echo $errors['notes']; ?></span></em>
+                echo __("Be liberal, they are internal");?> &nbsp;<span class="error">&nbsp;<?php echo $errors['notes']; ?></span></em>
             </th>
         </tr>
         <tr>

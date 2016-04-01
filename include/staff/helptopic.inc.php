@@ -99,7 +99,7 @@ $info=Format::htmlchars(($errors && $_POST)?$_POST:$info);
 
         <div style="padding:8px 3px;border-bottom: 2px dotted #ddd;">
             <strong><?php echo __('Internal Notes');?>:</strong>
-            <?php echo __("Be liberal, they're internal");?>
+            <?php echo __("Be liberal, they are internal");?>
         </div>
 
         <textarea class="richtext no-bar" name="notes" cols="21"

@@ -182,7 +182,7 @@ else
   </div>
   <div class="tab_content" style="display:none" id="notes">
     <em><strong><?php echo __('Internal Notes'); ?></strong>:
-      <?php echo __("Be liberal, they're internal"); ?></em>
+      <?php echo __("Be liberal, they are internal"); ?></em>
     <textarea class="richtext no-bar" name="notes" cols="21"
       rows="8" style="width: 80%;"><?php echo $info['notes']; ?></textarea>
   </div>
