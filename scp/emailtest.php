@@ -17,6 +17,7 @@ require('admin.inc.php');
 include_once(INCLUDE_DIR.'class.email.php');
 include_once(INCLUDE_DIR.'class.csrf.php');
 $info=array();
+
 $info['subj']=__('osTicket test email');
 
 if($_POST){
