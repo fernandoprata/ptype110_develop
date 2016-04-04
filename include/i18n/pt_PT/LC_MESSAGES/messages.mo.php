@@ -2461,6 +2461,7 @@ filtros',
   'vacation' => 'férias',
   'via %s' => 'através de %s',
   'view' => 'ver',
+  'Category' => 'Categoria',
   0 => 
   array (
     'Revision' => 0,
