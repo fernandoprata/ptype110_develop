@@ -1,5 +1,5 @@
 ---
-notes: A página de agradecimento é utilizada pelo portal do cliente quando um utilizador submete um novo pedido de assistência directamente no portal.
+notes: A página de agradecimento é utilizada pelo portal do cliente quando um utilizador submete um novo incidente directamente no portal.
 name: Obrigado
 body: |2
   <div> %{ticket.name},

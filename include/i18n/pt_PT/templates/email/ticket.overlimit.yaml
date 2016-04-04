@@ -3,7 +3,7 @@ notes: Enviar aos utilizadores quando for excedido o limite máximo de tickets a
 subject: Alcançado o limite de tickets abertos
 body: |
   <h3><strong>Caro(a) %{ticket.name.first},</strong></h3>
-  Atingiu o número máximo permitido de incidentes abertos em simultâneo. Para poder abrir um novo pedido de assistência, um dos seus pedidos pendentes tem de ser fechado. Para atualizar or adicionar comentários a um pedido de assistência já aberto <a href="%{url}/tickets.php?e=%{ticket.email}">entre no sistema de suporte</a>.
+  Atingiu o número máximo permitido de incidentes abertos em simultâneo. Para poder abrir um novo incidente, um dos seus pedidos pendentes tem de ser fechado. Para atualizar or adicionar comentários a um incidente já aberto <a href="%{url}/tickets.php?e=%{ticket.email}">entre no sistema de suporte</a>.
   <br>
   <br>
   Obrigado,<br/>
