@@ -1,16 +1,16 @@
 ---
 new_ticket_help_topic:
-  title: Tópico de Ajuda do Novo Pedido
+  title: Tópico de Ajuda do Novo Incidente
   content: 'Escolha um <span class="doc-desc-title"> Tópico de Ajuda</span> para ser automaticamente associado com os pedidos criados via este endereço de correio eletrónico. <br/> <br/> Os formulários associados com este tópico serão adicionados ao pedido, mas não terá quaisquer dados.'
   links:
     - 
       title: Gerir tópicos da ajuda
       href: /scp/helptopics.php
 new_ticket_priority:
-  title: Prioridade do Novo Pedido
+  title: Prioridade do Novo Incidente
   content: 'Escolha a <span class="doc-desc-title">prioridade</span> para novos pedidos enviados deste endereço de e-mail.'
 new_ticket_department:
-  title: Departamento do Novo Pedido
+  title: Departamento do Novo Incidente
   content: 'Escolha o <span class="doc-desc-title"> Departamento</span> para onde novos tickets criados através deste endereço de E-mail serão encaminhados.'
   links:
     - 

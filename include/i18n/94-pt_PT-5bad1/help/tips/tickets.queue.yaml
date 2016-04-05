@@ -9,7 +9,7 @@ open_tickets_table:
   title: Tabela de Pedidos em Aberto
   content: Todos os pedidos em aberto e a necessitar de atenção
 ticket:
-  title: Pedido
+  title: Incidente
   content: ""
 date:
   title: Data

@@ -9,13 +9,13 @@ rules_matching_criteria:
   title: Critérios de Correspondência de Regras
   content: 'Escolha quão estritas quer que as correspondências do seu <span class="doc-desc-title"> Filtro de Ticket</span> sejam. Se quiser que o <span class="doc-desc-title"> Filtro de Ticket</span> coincida com qualquer uma das regras e depois pare, escolha <span class="doc-desc-opt"> Coincidir com Qualquer Um</span>. Se quiser que <em><strong>todas as regras</strong></em> do <span class="doc-desc-title"> Filtro de Ticket</span> sejam correspondidas, escolha <span class="doc-desc-opt"> Corresponder a Todos</span>.'
 reject_ticket:
-  title: Rejeitar Pedido
-  content: Se ativo, o processamento adicional é interrompido e todas as outras escolhas abaixo serão ignoradas na correspondência.
+  title: Rejeitar Incidente
+  content: Se activo, o processamento adicional é interrompido e todas as outras escolhas abaixo serão ignoradas na correspondência.
 reply_to_email:
   title: Email de Resposta
   content: 'Ative, se quiser que o seu Help Desk use o <span class="doc-desc-title"> Reply To</span> do e-mail do utilizador. Este campo só é relevante se o <span class="doc-desc-title"> Canal</span> acima inclui <span class="doc-desc-opt"> E-mail</span>.'
 ticket_auto_response:
-  title: Desativar a Resposta Automática de Pedido
+  title: Desativar a Resposta Automática de Incidente
   content: '<em>Nota: Isto vai sobrepôr qualquer <span class="doc-desc-title">departamento</span>ou<span class="doc-desc-title">definição de resposta automática</span>.</em>'
 canned_response:
   title: Resposta Automática Predefinida

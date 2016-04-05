@@ -7,7 +7,7 @@ ticket_alert:
   content: '<p>Alerta enviado para Agentes quando é criado um novo ticket.</p><p class="info-banner"> <i class="icon-info-sign"></i> Este alerta não é enviado se o ticket for atribuído automaticamente através de um Filtro de Ticket ou Tópico de Ajuda.</p>'
   links:
     - 
-      title: Modelo de Alerta de Novo Pedido Predefinido
+      title: Modelo de Alerta de Novo Incidente Predefinido
       href: /scp/templates.php?default_for=ticket.alert
 message_alert:
   title: Alerta de nova mensagem

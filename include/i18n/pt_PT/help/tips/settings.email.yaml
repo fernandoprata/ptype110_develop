@@ -43,7 +43,7 @@ enable_autocron_fetch:
       href: http://osticket.com/wiki/POP3/IMAP_Setting_Guide
 strip_quoted_reply:
   title: Remover Resposta Citada
-  content: 'Se ativo, irá remover a correspondência anterior entre comunicações por email. <br><br>Este recurso está dependente da <b>Etiqueta de separador de Resposta </b> indicado em baixo.'
+  content: 'Se activo, irá remover a correspondência anterior entre comunicações por email. <br><br>Este recurso está dependente da <b>Etiqueta de separador de Resposta </b> indicado em baixo.'
 reply_separator_tag:
   title: Tag de separador de Resposta
   content: 'Esta é uma etiqueta que indica ao utilizador para responder acima da linha. <br><br><strong>Nota:</strong> só é relevante se <b> Remover Resposta Citada </b> está activo.'

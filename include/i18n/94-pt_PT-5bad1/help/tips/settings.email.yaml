@@ -43,16 +43,16 @@ enable_autocron_fetch:
       href: http://osticket.com/wiki/POP3/IMAP_Setting_Guide
 strip_quoted_reply:
   title: Remover Resposta Citada
-  content: 'Se ativo, irá remover a correspondência anterior entre comunicações por e-mail. <br><br>Este recurso está dependente da <span class="doc-desc-title"> Tag de separador de Resposta </span> abaixo.'
+  content: 'Se activo, irá remover a correspondência anterior entre comunicações por e-mail. <br><br>Este recurso está dependente da <span class="doc-desc-title"> Tag de separador de Resposta </span> abaixo.'
 reply_separator_tag:
   title: Tag de separador de Resposta
-  content: 'Este é um token que indica ao utilizador para responder acima da linha. <br><br><strong>Nota:</strong> só é relevante se <span class="doc-desc-title"> Remover Resposta Citada </span> está ativo acima.'
+  content: 'Este é um token que indica ao utilizador para responder acima da linha. <br><br><strong>Nota:</strong> só é relevante se <span class="doc-desc-title"> Remover Resposta Citada </span> está activo acima.'
 emailed_tickets_priority:
   title: Prioridade de Pedidos Enviados por Mensagem Eletrónica
-  content: 'Escolha se desejaria que a opção de prioridade/importância do correio eletrónico do utilizador (exemplo, OutLook) para ditar a prioridade do novo pedido. <br><br>Esta configuração pode ser substituída por um <span class="doc-desc-title"> Filtro de Pedido</span>.'
+  content: 'Escolha se desejaria que a opção de prioridade/importância do correio eletrónico do utilizador (exemplo, OutLook) para ditar a prioridade do novo pedido. <br><br>Esta configuração pode ser substituída por um <span class="doc-desc-title"> Filtro de Incidente</span>.'
   links:
     - 
-      title: Criar e Gerir Filtros de Pedido
+      title: Criar e Gerir Filtros de Incidente
       href: /scp/filters.php
 accept_all_emails:
   title: Aceitar todos os e-mails

@@ -1,9 +1,9 @@
 ---
 notes: Enviado para um membro da equipa quando um novo pedido de assistência é criado no sistema. Aplica-se a pedidos de assistência criados via email, portal web ou api.
-subject: Alerta de Novo Pedido de Assistência
+subject: Alerta de Novo Incidente de Assistência
 body: |
   <h2>Hi %{recipient},</h2>
-  Novo Pedido de Asist~encia #%{ticket.number} created
+  Novo Incidente de Asist~encia #%{ticket.number} created
   <br>
   <br>
   <table>
@@ -31,7 +31,7 @@ body: |
   <br>
   <br>
   <hr>
-  <div>Para ver resposta ao Pedido de Assistência, por favor <a
+  <div>Para ver resposta ao Incidente de Assistência, por favor <a
   href="%{ticket.staff_link}">entre</a> no sistema de Suporte Técnico </div>
   <em style="font-size: small">O seu Sistema de Suporte Técnico</em>
   <br>
