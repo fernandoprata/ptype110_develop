@@ -156,7 +156,7 @@ $info=Format::htmlchars(($errors && $_POST)?$_POST:$info);
         <tr>
             <th colspan="2">
                 <em><strong><?php echo __('Internal Notes');?></strong>: <?php echo __(
-                "Be liberal, they are internal");?></em>
+                "Be liberal, they're internal");?></em>
             </th>
         </tr>
         <tr>
